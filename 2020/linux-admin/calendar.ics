@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTEND:20200630T180000Z
+DTSTART:20200630T160000Z
+SUMMARY:Předpokládaný konec kurzu
+UID:https://naucse.python.cz/2020/linux-admin/sessions/end/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20200310T190000Z
+DTSTART:20200310T170000Z
+SUMMARY:Instalace
+UID:https://naucse.python.cz/2020/linux-admin/sessions/vm-setup/
+END:VEVENT
+END:VCALENDAR
